@@ -2,5 +2,5 @@
 algorithm used in bioinformatics to align protein or nucleotide sequences. the algorithm finds the best alignments possible between the 2 strings. Techniques such as Recursive depth first traversing, dynamic programming were used.
 
 Authors
-https://github.com/YoussefEmad99
-https://github.com/RamezNabil
+[@YoussefEmad](https://github.com/YoussefEmad99)
+[@RamezNabil](https://github.com/RamezNabil)
