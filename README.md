@@ -4,3 +4,6 @@ algorithm used in bioinformatics to align protein or nucleotide sequences. the a
 Authors
 [@YoussefEmad](https://github.com/YoussefEmad99)
 [@RamezNabil](https://github.com/RamezNabil)
+
+
+![*Preview](https://user-images.githubusercontent.com/49645682/118136617-981f7780-b404-11eb-8c9f-583cb04934f0.png)
