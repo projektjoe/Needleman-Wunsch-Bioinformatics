@@ -21,9 +21,9 @@ matrix = [[0] * N for _ in range(M)]
 
 # initialize first row and coloumn
 for i in range(M):
-    matrix[i][0] = i * gap
+    matrix[i][0] = i * mismatch
 for i in range(N):
-    matrix[0][i] = i * gap
+    matrix[0][i] = i * mismatch
 
 # initialize the tree dictionary, which will keep the paths from nodes
 tree = {}
